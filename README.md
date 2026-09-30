@@ -1,0 +1,2 @@
+# fivem-loading
+loading
